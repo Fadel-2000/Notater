@@ -1,2 +1,2 @@
 # Notater
-Notater fra uio 
+Notater fra uio gjennom studiet av Mohammad Fadel Al Khafaji
